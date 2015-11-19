@@ -39,6 +39,13 @@
 				}
 			},
 			{
+				"pid": 20,
+				"name": "Color 900 BR30",
+				"features": {
+					"color": true
+				}
+			},
+			{
 				"pid": 22,
 				"name": "Color 1000",
 				"features": {
