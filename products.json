@@ -65,6 +65,24 @@
 					"InfraRed": false,
 					"MultiZone": false
 				}
+			},
+			{
+				"pid": 25,
+				"name": "LIFX+",
+				"features": {
+					"color": true,
+					"InfraRed": true,
+					"MultiZone": false
+				}
+			},
+			{
+				"pid": 26,
+				"name": "LIFX+ BR30",
+				"features": {
+					"color": true,
+					"InfraRed": true,
+					"MultiZone": false
+				}
 			}
 		]
 	}
