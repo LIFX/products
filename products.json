@@ -83,6 +83,15 @@
 					"InfraRed": true,
 					"MultiZone": false
 				}
+			},
+			{
+				"pid": 31,
+				"name": "LIFX Z",
+				"features": {
+					"color": true,
+					"InfraRed": false,
+					"MultiZone": true
+				}
 			}
 		]
 	}
