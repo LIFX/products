@@ -67,7 +67,7 @@
 				}
 			},
 			{
-				"pid": 25,
+				"pid": 29,
 				"name": "LIFX+ A19",
 				"features": {
 					"color": true,
@@ -76,7 +76,7 @@
 				}
 			},
 			{
-				"pid": 26,
+				"pid": 30,
 				"name": "LIFX+ BR30",
 				"features": {
 					"color": true,
