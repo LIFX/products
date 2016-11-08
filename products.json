@@ -71,7 +71,7 @@
 				"name": "LIFX A19",
 				"features": {
 					"color": true,
-					"infrared": true,
+					"infrared": false,
 					"multizone": false
 				}
 			},
@@ -80,7 +80,7 @@
 				"name": "LIFX A19",
 				"features": {
 					"color": true,
-					"infrared": true,
+					"infrared": false,
 					"multizone": false
 				}
 			},
