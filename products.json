@@ -67,6 +67,24 @@
 				}
 			},
 			{
+				"pid": 27,
+				"name": "LIFX A19",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"multizone": false
+				}
+			},
+			{
+				"pid": 28,
+				"name": "LIFX A19",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"multizone": false
+				}
+			},
+			{
 				"pid": 29,
 				"name": "LIFX+ A19",
 				"features": {
