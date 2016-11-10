@@ -77,7 +77,7 @@
 			},
 			{
 				"pid": 28,
-				"name": "LIFX A19",
+				"name": "LIFX BR30",
 				"features": {
 					"color": true,
 					"infrared": false,
