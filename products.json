@@ -110,6 +110,24 @@
 					"infrared": false,
 					"multizone": true
 				}
+			},
+			{
+				"pid": 36,
+				"name": "LIFX Downlight",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"multizone": false
+				}
+			},
+			{
+				"pid": 37,
+				"name": "LIFX Downlight",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"multizone": false
+				}
 			}
 		]
 	}
