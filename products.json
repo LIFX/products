@@ -128,6 +128,42 @@
 					"infrared": false,
 					"multizone": false
 				}
+			},
+			{
+				"pid": 43,
+				"name": "LIFX A19",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"multizone": false
+				}
+			},
+			{
+				"pid": 44,
+				"name": "LIFX BR30",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"multizone": false
+				}
+			},
+			{
+				"pid": 45,
+				"name": "LIFX+ A19",
+				"features": {
+					"color": true,
+					"infrared": true,
+					"multizone": false
+				}
+			},
+			{
+				"pid": 46,
+				"name": "LIFX+ BR30",
+				"features": {
+					"color": true,
+					"infrared": true,
+					"multizone": false
+				}
 			}
 		]
 	}
