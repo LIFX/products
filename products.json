@@ -167,7 +167,7 @@
 			},
 			{
 				"pid": 49,
-				"name": "LIFX Mini Color",
+				"name": "LIFX Mini",
 				"features": {
 					"color": true,
 					"infrared": false,
@@ -194,7 +194,7 @@
 			},
 			{
 				"pid": 52,
-				"name": "LIFX Color GU10",
+				"name": "LIFX GU10",
 				"features": {
 					"color": true,
 					"infrared": false,
