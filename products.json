@@ -267,7 +267,7 @@
 				"pid": 60,
 				"name": "LIFX Mini Day and Dusk",
 				"features": {
-					"color": true,
+					"color": false,
 					"infrared": false,
 					"multizone": false,
 					"chain": false
@@ -277,7 +277,7 @@
 				"pid": 61,
 				"name": "LIFX Mini White",
 				"features": {
-					"color": true,
+					"color": false,
 					"infrared": false,
 					"multizone": false,
 					"chain": false
