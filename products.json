@@ -154,6 +154,16 @@
 				}
 			},
 			{
+				"pid": 38,
+				"name": "LIFX Beam",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"multizone": true,
+					"chain": false
+				}
+			},
+			{
 				"pid": 43,
 				"name": "LIFX A19",
 				"features": {
@@ -241,16 +251,6 @@
 					"infrared": false,
 					"multizone": false,
 					"chain": true
-				}
-			},
-			{
-				"pid": 56,
-				"name": "LIFX Beam",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"multizone": true,
-					"chain": false
 				}
 			},
 			{
