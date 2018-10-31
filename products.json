@@ -10,6 +10,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -20,6 +21,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -30,6 +32,7 @@
 					"color": false,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2700, 6500],
 					"chain": false
 				}
 			},
@@ -40,6 +43,7 @@
 					"color": false,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2700, 6500],
 					"chain": false
 				}
 			},
@@ -50,6 +54,7 @@
 					"color": false,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2700, 6500],
 					"chain": false
 				}
 			},
@@ -60,6 +65,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -70,6 +76,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -80,6 +87,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -90,6 +98,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -100,6 +109,7 @@
 					"color": true,
 					"infrared": true,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -110,6 +120,7 @@
 					"color": true,
 					"infrared": true,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -120,6 +131,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": true,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -130,6 +142,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": true,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -140,6 +153,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -150,6 +164,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -160,6 +175,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": true,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -170,6 +186,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -180,6 +197,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -190,6 +208,7 @@
 					"color": true,
 					"infrared": true,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -200,6 +219,7 @@
 					"color": true,
 					"infrared": true,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -210,6 +230,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -220,6 +241,7 @@
 					"color": false,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [1500, 4000],
 					"chain": false
 				}
 			},
@@ -230,6 +252,7 @@
 					"color": false,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2700, 2700],
 					"chain": false
 				}
 			},
@@ -240,6 +263,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -250,6 +274,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": true
 				}
 			},
@@ -260,6 +285,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			},
@@ -270,6 +296,7 @@
 					"color": false,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [1500, 4000],
 					"chain": false
 				}
 			},
@@ -280,6 +307,7 @@
 					"color": false,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2700, 2700],
 					"chain": false
 				}
 			}
