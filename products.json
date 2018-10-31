@@ -279,6 +279,17 @@
 				}
 			},
 			{
+				"pid": 56,
+				"name": "LIFX Beam",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"multizone": true,
+					"temperature_range": [2500, 9000],
+					"chain": false
+				}
+			},
+			{
 				"pid": 59,
 				"name": "LIFX Mini Color",
 				"features": {
