@@ -274,6 +274,7 @@
 					"color": true,
 					"infrared": false,
 					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": true
 				}
 			},
