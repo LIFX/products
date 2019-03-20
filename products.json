@@ -144,7 +144,8 @@
 					"multizone": true,
 					"temperature_range": [2500, 9000],
 					"chain": false,
-					"min_ext_mz_firmware": 1532997580
+					"min_ext_mz_firmware": 1532997580,
+					"min_ext_mz_firmware_components": [2, 77]
 				}
 			},
 			{
@@ -178,7 +179,8 @@
 					"multizone": true,
 					"temperature_range": [2500, 9000],
 					"chain": false,
-					"min_ext_mz_firmware": 1532997580
+					"min_ext_mz_firmware": 1532997580,
+					"min_ext_mz_firmware_components": [2, 77]
 				}
 			},
 			{
