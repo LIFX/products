@@ -9,6 +9,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -20,6 +21,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -31,6 +33,7 @@
 				"features": {
 					"color": false,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2700, 6500],
 					"chain": false
@@ -42,6 +45,7 @@
 				"features": {
 					"color": false,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2700, 6500],
 					"chain": false
@@ -53,6 +57,7 @@
 				"features": {
 					"color": false,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2700, 6500],
 					"chain": false
@@ -64,6 +69,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -75,6 +81,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -86,6 +93,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -97,6 +105,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -108,6 +117,7 @@
 				"features": {
 					"color": true,
 					"infrared": true,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -119,6 +129,7 @@
 				"features": {
 					"color": true,
 					"infrared": true,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -130,6 +141,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": true,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -141,6 +153,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": true,
 					"temperature_range": [2500, 9000],
 					"chain": false,
@@ -154,6 +167,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -165,6 +179,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -176,6 +191,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": true,
 					"temperature_range": [2500, 9000],
 					"chain": false,
@@ -189,6 +205,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -200,6 +217,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -211,6 +229,7 @@
 				"features": {
 					"color": true,
 					"infrared": true,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -222,6 +241,7 @@
 				"features": {
 					"color": true,
 					"infrared": true,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -233,6 +253,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -244,6 +265,7 @@
 				"features": {
 					"color": false,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [1500, 4000],
 					"chain": false
@@ -255,6 +277,7 @@
 				"features": {
 					"color": false,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2700, 2700],
 					"chain": false
@@ -266,6 +289,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -277,9 +301,22 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": true,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": true
+				}
+			},
+			{
+				"pid": 57,
+				"name": "LIFX Candle",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"matrix": true,
+					"multizone": false,
+					"temperature_range": [2500, 9000],
+					"chain": false
 				}
 			},
 			{
@@ -288,6 +325,7 @@
 				"features": {
 					"color": true,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
 					"chain": false
@@ -299,6 +337,7 @@
 				"features": {
 					"color": false,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [1500, 4000],
 					"chain": false
@@ -310,8 +349,21 @@
 				"features": {
 					"color": false,
 					"infrared": false,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2700, 2700],
+					"chain": false
+				}
+			},
+			{
+				"pid": 68,
+				"name": "LIFX Candle",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"matrix": true,
+					"multizone": false,
+					"temperature_range": [2500, 9000],
 					"chain": false
 				}
 			}
