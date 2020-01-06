@@ -261,7 +261,7 @@
 			},
 			{
 				"pid": 50,
-				"name": "LIFX Mini Day and Dusk",
+				"name": "LIFX Mini Warm to White",
 				"features": {
 					"color": false,
 					"infrared": false,
@@ -333,7 +333,7 @@
 			},
 			{
 				"pid": 60,
-				"name": "LIFX Mini Day and Dusk",
+				"name": "LIFX Mini Warm to White",
 				"features": {
 					"color": false,
 					"infrared": false,
@@ -356,6 +356,54 @@
 				}
 			},
 			{
+				"pid": 62,
+				"name": "LIFX A19",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"matrix": false,
+					"multizone": false,
+					"temperature_range": [2500, 9000],
+					"chain": false
+				}
+			},
+			{
+				"pid": 63,
+				"name": "LIFX BR30",
+				"features": {
+					"color": true,
+					"infrared": false,
+					"matrix": false,
+					"multizone": false,
+					"temperature_range": [2500, 9000],
+					"chain": false
+				}
+			},
+			{
+				"pid": 64,
+				"name": "LIFX+ A19",
+				"features": {
+					"color": true,
+					"infrared": true,
+					"matrix": false,
+					"multizone": false,
+					"temperature_range": [2500, 9000],
+					"chain": false
+				}
+			},
+			{
+				"pid": 65,
+				"name": "LIFX+ BR30",
+				"features": {
+					"color": true,
+					"infrared": true,
+					"matrix": false,
+					"multizone": false,
+					"temperature_range": [2500, 9000],
+					"chain": false
+				}
+			},
+			{
 				"pid": 68,
 				"name": "LIFX Candle",
 				"features": {
@@ -364,6 +412,30 @@
 					"matrix": true,
 					"multizone": false,
 					"temperature_range": [2500, 9000],
+					"chain": false
+				}
+			},
+			{
+				"pid": 81,
+				"name": "LIFX Candle Warm to White",
+				"features": {
+					"color": false,
+					"infrared": false,
+					"matrix": true,
+					"multizone": false,
+					"temperature_range": [2500, 6500],
+					"chain": false
+				}
+			},
+			{
+				"pid": 82,
+				"name": "LIFX Filament",
+				"features": {
+					"color": false,
+					"infrared": false,
+					"matrix": false,
+					"multizone": false,
+					"temperature_range": [2000, 2000],
 					"chain": false
 				}
 			}
