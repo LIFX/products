@@ -315,7 +315,7 @@
 					"infrared": false,
 					"matrix": true,
 					"multizone": false,
-					"temperature_range": [2500, 9000],
+					"temperature_range": [1500, 9000],
 					"chain": false
 				}
 			},
@@ -411,7 +411,7 @@
 					"infrared": false,
 					"matrix": true,
 					"multizone": false,
-					"temperature_range": [2500, 9000],
+					"temperature_range": [1500, 9000],
 					"chain": false
 				}
 			},
@@ -423,7 +423,7 @@
 					"infrared": false,
 					"matrix": true,
 					"multizone": false,
-					"temperature_range": [2500, 6500],
+					"temperature_range": [2200, 6500],
 					"chain": false
 				}
 			},
