@@ -421,7 +421,7 @@
 				"features": {
 					"color": false,
 					"infrared": false,
-					"matrix": true,
+					"matrix": false,
 					"multizone": false,
 					"temperature_range": [2200, 6500],
 					"chain": false
