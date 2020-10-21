@@ -1,444 +1,558 @@
 [
-	{
-		"vid": 1,
-		"name": "LIFX",
-		"products": [
-			{
-				"pid": 1,
-				"name": "Original 1000",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 3,
-				"name": "Color 650",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 10,
-				"name": "White 800 (Low Voltage)",
-				"features": {
-					"color": false,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2700, 6500],
-					"chain": false
-				}
-			},
-			{
-				"pid": 11,
-				"name": "White 800 (High Voltage)",
-				"features": {
-					"color": false,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2700, 6500],
-					"chain": false
-				}
-			},
-			{
-				"pid": 18,
-				"name": "White 900 BR30 (Low Voltage)",
-				"features": {
-					"color": false,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2700, 6500],
-					"chain": false
-				}
-			},
-			{
-				"pid": 20,
-				"name": "Color 1000 BR30",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 22,
-				"name": "Color 1000",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 27,
-				"name": "LIFX A19",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 28,
-				"name": "LIFX BR30",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 29,
-				"name": "LIFX+ A19",
-				"features": {
-					"color": true,
-					"infrared": true,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 30,
-				"name": "LIFX+ BR30",
-				"features": {
-					"color": true,
-					"infrared": true,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 31,
-				"name": "LIFX Z",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": true,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 32,
-				"name": "LIFX Z 2",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": true,
-					"temperature_range": [2500, 9000],
-					"chain": false,
-					"min_ext_mz_firmware": 1532997580,
-					"min_ext_mz_firmware_components": [2, 77]
-				}
-			},
-			{
-				"pid": 36,
-				"name": "LIFX Downlight",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 37,
-				"name": "LIFX Downlight",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 38,
-				"name": "LIFX Beam",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": true,
-					"temperature_range": [2500, 9000],
-					"chain": false,
-					"min_ext_mz_firmware": 1532997580,
-					"min_ext_mz_firmware_components": [2, 77]
-				}
-			},
-			{
-				"pid": 43,
-				"name": "LIFX A19",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 44,
-				"name": "LIFX BR30",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 45,
-				"name": "LIFX+ A19",
-				"features": {
-					"color": true,
-					"infrared": true,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 46,
-				"name": "LIFX+ BR30",
-				"features": {
-					"color": true,
-					"infrared": true,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 49,
-				"name": "LIFX Mini",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 50,
-				"name": "LIFX Mini Warm to White",
-				"features": {
-					"color": false,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [1500, 4000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 51,
-				"name": "LIFX Mini White",
-				"features": {
-					"color": false,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2700, 2700],
-					"chain": false
-				}
-			},
-			{
-				"pid": 52,
-				"name": "LIFX GU10",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 55,
-				"name": "LIFX Tile",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": true,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": true
-				}
-			},
-			{
-				"pid": 57,
-				"name": "LIFX Candle",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": true,
-					"multizone": false,
-					"temperature_range": [1500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 59,
-				"name": "LIFX Mini Color",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 60,
-				"name": "LIFX Mini Warm to White",
-				"features": {
-					"color": false,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [1500, 4000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 61,
-				"name": "LIFX Mini White",
-				"features": {
-					"color": false,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2700, 2700],
-					"chain": false
-				}
-			},
-			{
-				"pid": 62,
-				"name": "LIFX A19",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 63,
-				"name": "LIFX BR30",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 64,
-				"name": "LIFX+ A19",
-				"features": {
-					"color": true,
-					"infrared": true,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 65,
-				"name": "LIFX+ BR30",
-				"features": {
-					"color": true,
-					"infrared": true,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 68,
-				"name": "LIFX Candle",
-				"features": {
-					"color": true,
-					"infrared": false,
-					"matrix": true,
-					"multizone": false,
-					"temperature_range": [1500, 9000],
-					"chain": false
-				}
-			},
-			{
-				"pid": 81,
-				"name": "LIFX Candle Warm to White",
-				"features": {
-					"color": false,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2200, 6500],
-					"chain": false
-				}
-			},
-			{
-				"pid": 82,
-				"name": "LIFX Filament",
-				"features": {
-					"color": false,
-					"infrared": false,
-					"matrix": false,
-					"multizone": false,
-					"temperature_range": [2000, 2000],
-					"chain": false
-				}
-			}
-		]
-	}
+  {
+    "vid": 1,
+    "name": "LIFX",
+    "products": [
+      {
+        "pid": 1,
+        "name": "Original 1000",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 3,
+        "name": "Color 650",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 10,
+        "name": "White 800 (Low Voltage)",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2700,
+            6500
+          ]
+        }
+      },
+      {
+        "pid": 11,
+        "name": "White 800 (High Voltage)",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2700,
+            6500
+          ]
+        }
+      },
+      {
+        "pid": 18,
+        "name": "White 900 BR30 (Low Voltage)",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2700,
+            6500
+          ]
+        }
+      },
+      {
+        "pid": 20,
+        "name": "Color 1000 BR30",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 22,
+        "name": "Color 1000",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 27,
+        "name": "LIFX A19",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 28,
+        "name": "LIFX BR30",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 29,
+        "name": "LIFX+ A19",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": true,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 30,
+        "name": "LIFX+ BR30",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": true,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 31,
+        "name": "LIFX Z",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 32,
+        "name": "LIFX Z 2",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "min_ext_mz_firmware": 1532997580,
+          "min_ext_mz_firmware_components": [
+            2,
+            77
+          ]
+        }
+      },
+      {
+        "pid": 36,
+        "name": "LIFX Downlight",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 37,
+        "name": "LIFX Downlight",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 38,
+        "name": "LIFX Beam",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "min_ext_mz_firmware": 1532997580,
+          "min_ext_mz_firmware_components": [
+            2,
+            77
+          ]
+        }
+      },
+      {
+        "pid": 43,
+        "name": "LIFX A19",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 44,
+        "name": "LIFX BR30",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 45,
+        "name": "LIFX+ A19",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": true,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 46,
+        "name": "LIFX+ BR30",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": true,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 49,
+        "name": "LIFX Mini",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 50,
+        "name": "LIFX Mini Warm to White",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            4000
+          ]
+        }
+      },
+      {
+        "pid": 51,
+        "name": "LIFX Mini White",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2700,
+            2700
+          ]
+        }
+      },
+      {
+        "pid": 52,
+        "name": "LIFX GU10",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 55,
+        "name": "LIFX Tile",
+        "features": {
+          "color": true,
+          "chain": true,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 57,
+        "name": "LIFX Candle",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 59,
+        "name": "LIFX Mini Color",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 60,
+        "name": "LIFX Mini Warm to White",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            4000
+          ]
+        }
+      },
+      {
+        "pid": 61,
+        "name": "LIFX Mini White",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2700,
+            2700
+          ]
+        }
+      },
+      {
+        "pid": 62,
+        "name": "LIFX A19",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 63,
+        "name": "LIFX BR30",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 64,
+        "name": "LIFX+ A19",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": true,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 65,
+        "name": "LIFX+ BR30",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": true,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 68,
+        "name": "LIFX Candle",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        }
+      },
+      {
+        "pid": 81,
+        "name": "LIFX Candle Warm to White",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2200,
+            6500
+          ]
+        }
+      },
+      {
+        "pid": 82,
+        "name": "LIFX Filament",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2000,
+            2000
+          ]
+        }
+      }
+    ]
+  }
 ]
