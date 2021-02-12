@@ -2,6 +2,17 @@
   {
     "vid": 1,
     "name": "LIFX",
+    "defaults": {
+      "color": false,
+      "chain": false,
+      "matrix": false,
+      "relays": true,
+      "buttons": true,
+      "infrared": false,
+      "multizone": false,
+      "temperature_range": null,
+      "extended_multizone": false
+    },
     "products": [
       {
         "pid": 1,
@@ -16,7 +27,8 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 3,
@@ -31,7 +43,8 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 10,
@@ -46,7 +59,8 @@
             2700,
             6500
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 11,
@@ -61,7 +75,8 @@
             2700,
             6500
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 15,
@@ -76,7 +91,8 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 18,
@@ -91,7 +107,8 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 19,
@@ -106,7 +123,8 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 20,
@@ -121,7 +139,8 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 22,
@@ -136,7 +155,8 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 27,
@@ -151,7 +171,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 28,
@@ -166,7 +198,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 29,
@@ -181,7 +225,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 30,
@@ -196,7 +252,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 31,
@@ -211,7 +279,8 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 32,
@@ -231,7 +300,26 @@
             2,
             77
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            77,
+            {
+              "extended_multizone": true
+            }
+          ],
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 36,
@@ -246,7 +334,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 37,
@@ -261,7 +361,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 38,
@@ -281,7 +393,26 @@
             2,
             77
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            77,
+            {
+              "extended_multizone": true
+            }
+          ],
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 39,
@@ -296,7 +427,19 @@
             1500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 40,
@@ -311,7 +454,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 43,
@@ -326,7 +481,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 44,
@@ -341,7 +508,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 45,
@@ -356,7 +535,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 46,
@@ -371,7 +562,19 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": [
+          [
+            2,
+            80,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 49,
@@ -383,10 +586,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 50,
@@ -399,9 +603,21 @@
           "multizone": false,
           "temperature_range": [
             1500,
-            4000
+            6500
           ]
-        }
+        },
+        "upgrades": [
+          [
+            3,
+            70,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 51,
@@ -416,7 +632,8 @@
             2700,
             2700
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 52,
@@ -428,10 +645,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 53,
@@ -443,10 +661,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 55,
@@ -461,7 +680,8 @@
             2500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 57,
@@ -476,7 +696,8 @@
             1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 59,
@@ -488,10 +709,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 60,
@@ -504,9 +726,21 @@
           "multizone": false,
           "temperature_range": [
             1500,
-            4000
+            6500
           ]
-        }
+        },
+        "upgrades": [
+          [
+            3,
+            70,
+            {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          ]
+        ]
       },
       {
         "pid": 61,
@@ -521,7 +755,8 @@
             2700,
             2700
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 62,
@@ -533,10 +768,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 63,
@@ -548,10 +784,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 64,
@@ -563,10 +800,11 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 65,
@@ -578,10 +816,11 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 66,
@@ -596,7 +835,8 @@
             2700,
             2700
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 68,
@@ -611,7 +851,8 @@
             1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 70,
@@ -624,7 +865,22 @@
           "buttons": true,
           "infrared": false,
           "multizone": false
-        }
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 71,
+        "name": "LIFX Switch",
+        "features": {
+          "color": false,
+          "relays": true,
+          "chain": false,
+          "matrix": false,
+          "buttons": true,
+          "infrared": false,
+          "multizone": false
+        },
+        "upgrades": []
       },
       {
         "pid": 81,
@@ -639,7 +895,8 @@
             2200,
             6500
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 82,
@@ -654,7 +911,8 @@
             2100,
             2100
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 85,
@@ -669,7 +927,8 @@
             2000,
             2000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 87,
@@ -684,7 +943,8 @@
             2700,
             2700
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 88,
@@ -699,7 +959,8 @@
             2700,
             2700
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 89,
@@ -712,7 +973,8 @@
           "buttons": true,
           "infrared": false,
           "multizone": false
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 90,
@@ -725,10 +987,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 91,
@@ -740,10 +1003,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 92,
@@ -755,10 +1019,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 94,
@@ -770,10 +1035,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 96,
@@ -788,7 +1054,8 @@
             2200,
             6500
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 97,
@@ -800,10 +1067,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 98,
@@ -815,10 +1083,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 99,
@@ -831,10 +1100,11 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 100,
@@ -849,7 +1119,8 @@
             2100,
             2100
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 101,
@@ -864,7 +1135,8 @@
             2000,
             2000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 109,
@@ -876,10 +1148,11 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 110,
@@ -891,10 +1164,11 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       },
       {
         "pid": 111,
@@ -906,10 +1180,11 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            2500,
+            1500,
             9000
           ]
-        }
+        },
+        "upgrades": []
       }
     ]
   }
