@@ -19,9 +19,11 @@ LAN Protocol. LiFi Labs, Inc. © 2021. All rights reserved. Usage of this docume
 * `multizone` = The light supports a 1D linear array of LEDs (the Z and Beam)
 * `temperature_range` = An array of the minimum and maximum kelvin values this
   device supports. If the numbers are the same then the device does not support
-  variable kelvin values. It is `null` for devices that don't have LEDs (the
-  LIFX Switch)
+  variable kelvin values. It is `null` for devices that aren't lighting
+  products (the LIFX Switch)
 * `extended_multizone` = The more capable `extended` API for multizone control
+  that lets us control all the zones on the device with a single message instead
+  of many.
 
 ### Determining capabilities
 
@@ -55,9 +57,9 @@ def get_capabilities(vid, pid, major, minor):
 
             cap.update(product["features"])
 
-            for ma, mi, other in product["upgrades"]:
-                if (major, minor) >= (ma, mi):
-                    cap.update(other)
+            for upgrade in product["upgrades"]:
+                if (upgrade["major"], upgrade["minor"]) >= (ma, mi):
+                    cap.update(upgrade["features"])
 
             return cap
 ```
