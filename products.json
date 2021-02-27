@@ -3,6 +3,7 @@
     "vid": 1,
     "name": "LIFX",
     "defaults": {
+      "hev": false,
       "color": false,
       "chain": false,
       "matrix": false,
