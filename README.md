@@ -8,6 +8,7 @@ LAN Protocol. LiFi Labs, Inc. © 2021. All rights reserved. Usage of this docume
 
 ### Available capabilities
 
+* `hev` = The light supports emitting HEV light
 * `color` = The light changes physical appearance when the Hue value is changed
 * `chain` = The light may be connected to physically separated hardware
   (currently only the LIFX Tile)
