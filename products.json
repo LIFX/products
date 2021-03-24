@@ -425,7 +425,7 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ]
         },
