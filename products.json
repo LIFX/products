@@ -417,7 +417,7 @@
       },
       {
         "pid": 39,
-        "name": "LIFX Downlight White To Warm",
+        "name": "LIFX Downlight White to Warm",
         "features": {
           "color": false,
           "chain": false,
@@ -595,7 +595,7 @@
       },
       {
         "pid": 50,
-        "name": "LIFX Mini White To Warm",
+        "name": "LIFX Mini White to Warm",
         "features": {
           "color": false,
           "chain": false,
@@ -718,7 +718,7 @@
       },
       {
         "pid": 60,
-        "name": "LIFX Mini White To Warm",
+        "name": "LIFX Mini White to Warm",
         "features": {
           "color": false,
           "chain": false,
@@ -885,7 +885,7 @@
       },
       {
         "pid": 81,
-        "name": "LIFX Candle White To Warm",
+        "name": "LIFX Candle White to Warm",
         "features": {
           "color": false,
           "chain": false,
@@ -1027,6 +1027,22 @@
         "upgrades": []
       },
       {
+        "pid": 93,
+        "name": "LIFX A19 US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
         "pid": 94,
         "name": "LIFX BR30",
         "features": {
@@ -1044,7 +1060,7 @@
       },
       {
         "pid": 96,
-        "name": "LIFX Candle White To Warm",
+        "name": "LIFX Candle White to Warm",
         "features": {
           "color": false,
           "chain": false,
@@ -1179,6 +1195,54 @@
           "chain": false,
           "matrix": false,
           "infrared": true,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 112,
+        "name": "LIFX BR30 Night Vision Intl",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": true,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 113,
+        "name": "LIFX Mini WW US",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 114,
+        "name": "LIFX Mini WW Intl",
+        "features": {
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
