@@ -59,7 +59,7 @@ def get_capabilities(vid, pid, major, minor):
             cap.update(product["features"])
 
             for upgrade in product["upgrades"]:
-                if (upgrade["major"], upgrade["minor"]) >= (ma, mi):
+                if (ma, mi) >= (upgrade["major"], upgrade["minor"]):
                     cap.update(upgrade["features"])
 
             return cap
