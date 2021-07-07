@@ -843,7 +843,7 @@
         "pid": 68,
         "name": "LIFX Candle",
         "features": {
-          "color": false,
+          "color": true,
           "chain": false,
           "matrix": true,
           "infrared": false,
