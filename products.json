@@ -1256,6 +1256,7 @@
         "name": "LIFX Switch",
         "features": {
           "color": false,
+          "relays": true,
           "chain": false,
           "matrix": false,
           "buttons": true,
@@ -1269,6 +1270,7 @@
         "name": "LIFX Switch",
         "features": {
           "color": false,
+          "relays": true,
           "chain": false,
           "matrix": false,
           "buttons": true,
