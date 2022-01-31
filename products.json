@@ -1447,8 +1447,8 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2700,
-            2700
+            1500,
+            9000
           ]
         },
         "upgrades": []
