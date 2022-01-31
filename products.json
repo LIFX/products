@@ -1289,7 +1289,8 @@
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": true
         },
         "upgrades": []
       },
@@ -1305,7 +1306,8 @@
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": true
         },
         "upgrades": []
       },
@@ -1321,7 +1323,8 @@
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": true
         },
         "upgrades": []
       },
@@ -1337,7 +1340,8 @@
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": true
         },
         "upgrades": []
       },
