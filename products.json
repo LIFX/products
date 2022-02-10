@@ -1281,7 +1281,7 @@
       },
       {
         "pid": 117,
-        "name": "LIFX Z",
+        "name": "LIFX Z US",
         "features": {
           "color": true,
           "chain": false,
@@ -1298,7 +1298,7 @@
       },
       {
         "pid": 118,
-        "name": "LIFX Z",
+        "name": "LIFX Z Intl",
         "features": {
           "color": true,
           "chain": false,
@@ -1315,7 +1315,7 @@
       },
       {
         "pid": 119,
-        "name": "LIFX Beam",
+        "name": "LIFX Beam US",
         "features": {
           "color": true,
           "chain": false,
@@ -1332,7 +1332,7 @@
       },
       {
         "pid": 120,
-        "name": "LIFX Beam",
+        "name": "LIFX Beam Intl",
         "features": {
           "color": true,
           "chain": false,
