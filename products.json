@@ -1348,6 +1348,38 @@
         "upgrades": []
       },
       {
+        "pid": 121,
+        "name": "LIFX Downlight Intl",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 122,
+        "name": "LIFX Downlight US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
         "pid": 123,
         "name": "LIFX Color US",
         "features": {
