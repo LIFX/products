@@ -1634,6 +1634,23 @@
           ]
         },
         "upgrades": []
+      },
+      {
+        "pid": 141,
+        "name": "LIFX Neon US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": true,
+          "extended_multizone": true,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "upgrades": []
+        }
       }
     ]
   }
