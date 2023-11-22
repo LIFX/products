@@ -1644,11 +1644,28 @@
           "matrix": false,
           "infrared": false,
           "multizone": true,
-          "extended_multizone": true,
           "temperature_range": [
             1500,
             9000
           ],
+          "extended_multizone": true,
+          "upgrades": []
+        }
+      },
+      {
+        "pid": 144,
+        "name": "LIFX String Intl",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": true,
           "upgrades": []
         }
       }
