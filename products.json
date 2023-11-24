@@ -1653,6 +1653,40 @@
         }
       },
       {
+        "pid": 142,
+        "name": "LIFX Neon Intl",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": true,
+          "upgrades": []
+        }
+      },
+      {
+        "pid": 143,
+        "name": "LIFX String US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": true,
+          "upgrades": []
+        }
+      },
+      {
         "pid": 144,
         "name": "LIFX String Intl",
         "features": {
