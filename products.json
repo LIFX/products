@@ -1745,12 +1745,11 @@
           "chain": false,
           "matrix": false,
           "infrared": false,
-          "multizone": true,
+          "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ],
-          "extended_multizone": true
+          ]
         },
         "upgrades": []
       },
@@ -1778,12 +1777,11 @@
           "chain": false,
           "matrix": false,
           "infrared": false,
-          "multizone": true,
+          "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ],
-          "extended_multizone": true
+          ]
         },
         "upgrades": []
       },
