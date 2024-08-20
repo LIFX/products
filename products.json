@@ -2124,71 +2124,71 @@
           "extended_multizone": true
         },
         "upgrades": []
+      },
+      {
+        "pid": 215,
+        "name": "LIFX B10 Candle US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 216,
+        "name": "LIFX B10 Candle INTL",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 217,
+        "name": "LIFX T10 Candle US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 218,
+        "name": "LIFX T10 Candle INTL",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
       }
     ]
-  },
-  {
-    "pid": 215,
-    "name": "LIFX B10 Candle US",
-    "features": {
-      "color": true,
-      "chain": false,
-      "matrix": true,
-      "infrared": false,
-      "multizone": false,
-      "temperature_range": [
-        1500,
-        9000
-      ]
-    },
-    "upgrades": []
-  },
-  {
-    "pid": 216,
-    "name": "LIFX B10 Candle INTL",
-    "features": {
-      "color": true,
-      "chain": false,
-      "matrix": true,
-      "infrared": false,
-      "multizone": false,
-      "temperature_range": [
-        1500,
-        9000
-      ]
-    },
-    "upgrades": []
-  },
-  {
-    "pid": 217,
-    "name": "LIFX T10 Candle US",
-    "features": {
-      "color": true,
-      "chain": false,
-      "matrix": true,
-      "infrared": false,
-      "multizone": false,
-      "temperature_range": [
-        1500,
-        9000
-      ]
-    },
-    "upgrades": []
-  },
-  {
-    "pid": 218,
-    "name": "LIFX T10 Candle INTL",
-    "features": {
-      "color": true,
-      "chain": false,
-      "matrix": true,
-      "infrared": false,
-      "multizone": false,
-      "temperature_range": [
-        1500,
-        9000
-      ]
-    },
-    "upgrades": []
   }
 ]
