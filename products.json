@@ -2127,7 +2127,7 @@
       },
       {
         "pid": 215,
-        "name": "LIFX B10 Candle US",
+        "name": "LIFX Candle Color US",
         "features": {
           "color": true,
           "chain": false,
@@ -2143,7 +2143,7 @@
       },
       {
         "pid": 216,
-        "name": "LIFX B10 Candle INTL",
+        "name": "LIFX Candle Color Intl",
         "features": {
           "color": true,
           "chain": false,
@@ -2159,7 +2159,7 @@
       },
       {
         "pid": 217,
-        "name": "LIFX T10 Candle US",
+        "name": "LIFX Tube US",
         "features": {
           "color": true,
           "chain": false,
@@ -2175,7 +2175,7 @@
       },
       {
         "pid": 218,
-        "name": "LIFX T10 Candle INTL",
+        "name": "LIFX Tube Intl",
         "features": {
           "color": true,
           "chain": false,
