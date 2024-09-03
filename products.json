@@ -1397,7 +1397,7 @@
       },
       {
         "pid": 124,
-        "name": "LIFX Color Intl",
+        "name": "LIFX Colour Intl",
         "features": {
           "color": true,
           "chain": false,
@@ -1493,7 +1493,7 @@
       },
       {
         "pid": 130,
-        "name": "LIFX Color Intl",
+        "name": "LIFX Colour Intl",
         "features": {
           "color": true,
           "chain": false,
@@ -1589,7 +1589,7 @@
       },
       {
         "pid": 136,
-        "name": "LIFX GU10 Color Intl",
+        "name": "LIFX GU10 Colour Intl",
         "features": {
           "color": true,
           "chain": false,
@@ -1621,7 +1621,7 @@
       },
       {
         "pid": 138,
-        "name": "LIFX Candle Color Intl",
+        "name": "LIFX Candle Colour Intl",
         "features": {
           "color": true,
           "chain": false,
@@ -1979,7 +1979,7 @@
       },
       {
         "pid": 182,
-        "name": "LIFX Color Intl",
+        "name": "LIFX Colour Intl",
         "features": {
           "color": true,
           "chain": false,
@@ -2011,7 +2011,7 @@
       },
       {
         "pid": 186,
-        "name": "LIFX Candle Color Intl",
+        "name": "LIFX Candle Colour Intl",
         "features": {
           "color": true,
           "chain": false,
@@ -2043,7 +2043,7 @@
       },
       {
         "pid": 188,
-        "name": "LIFX Candle Color Intl",
+        "name": "LIFX Candle Colour Intl",
         "features": {
           "color": true,
           "chain": false,
@@ -2143,7 +2143,7 @@
       },
       {
         "pid": 216,
-        "name": "LIFX Candle Color Intl",
+        "name": "LIFX Candle Colour Intl",
         "features": {
           "color": true,
           "chain": false,
