@@ -2058,6 +2058,38 @@
         "upgrades": []
       },
       {
+        "pid": 201,
+        "name": "LIFX Ceiling 13x26\" US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 202,
+        "name": "LIFX Ceiling 13x26\" Intl",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
         "pid": 203,
         "name": "LIFX String US",
         "features": {
@@ -2111,6 +2143,40 @@
       {
         "pid": 206,
         "name": "LIFX Indoor Neon Intl",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": true
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 213,
+        "name": "LIFX Permanent Outdoor US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": true
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 214,
+        "name": "LIFX Permanent Outdoor Intl",
         "features": {
           "color": true,
           "chain": false,
