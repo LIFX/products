@@ -1962,6 +1962,54 @@
         "upgrades": []
       },
       {
+        "pid": 178,
+        "name": "LIFX Downlight US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 179,
+        "name": "LIFX Downlight US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 180,
+        "name": "LIFX Downlight US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
         "pid": 181,
         "name": "LIFX Color US",
         "features": {
@@ -2246,6 +2294,118 @@
           "color": true,
           "chain": false,
           "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 219,
+        "name": "LIFX Capsule Mini US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 220,
+        "name": "LIFX Capsule Mini Intl",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 221,
+        "name": "LIFX Round Spot Intl",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 222,
+        "name": "LIFX Round Path Intl",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 223,
+        "name": "LIFX Downlight US",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 224,
+        "name": "LIFX Downlight Intl",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ]
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 225,
+        "name": "LIFX PAR38 INTL",
+        "features": {
+          "color": true,
+          "chain": false,
+          "matrix": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
