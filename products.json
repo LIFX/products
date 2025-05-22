@@ -2305,7 +2305,7 @@
       },
       {
         "pid": 219,
-        "name": "LIFX Capsule Mini US",
+        "name": "LIFX Luna US",
         "features": {
           "color": true,
           "chain": false,
@@ -2321,7 +2321,7 @@
       },
       {
         "pid": 220,
-        "name": "LIFX Capsule Mini Intl",
+        "name": "LIFX Luna Intl",
         "features": {
           "color": true,
           "chain": false,
