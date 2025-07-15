@@ -2310,6 +2310,7 @@
           "color": true,
           "chain": false,
           "matrix": true,
+          "buttons": true,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
@@ -2326,6 +2327,7 @@
           "color": true,
           "chain": false,
           "matrix": true,
+          "buttons": true,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
