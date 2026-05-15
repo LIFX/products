@@ -17,129 +17,261 @@
     "products": [
       {
         "pid": 1,
-        "name": "LIFX Original 1000",
+        "name": "Original",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 2,
+        "name": "Original 1000",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 3,
-        "name": "LIFX Color 650",
+        "name": "Color 650",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 10,
-        "name": "LIFX White 800 (Low Voltage)",
+        "name": "LIFX White 800 (LV)",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             6500
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 11,
-        "name": "LIFX White 800 (High Voltage)",
+        "name": "LIFX White 800 (HV)",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             6500
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 12,
+        "name": "LIFX LCMv4 White OEM (A19 LV)",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2700,
+            2700
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 13,
+        "name": "LIFX LCMv4 White OEM (A19 HV)",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2700,
+            2700
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 14,
+        "name": "LIFX Carbon Prototype",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 15,
-        "name": "LIFX Color 1000",
+        "name": "LIFX LCMv4 Color (A21)",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
-            9000
-          ]
+            2700,
+            6500
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 18,
-        "name": "LIFX White 900 BR30 (Low Voltage)",
+        "name": "LIFX White 900 (BR30)",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
-            9000
-          ]
+            2700,
+            6500
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 19,
-        "name": "LIFX White 900 BR30 (High Voltage)",
+        "name": "LIFX White 900 (BR30)",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
-            9000
-          ]
+            2700,
+            6500
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 20,
-        "name": "LIFX Color 1000 BR30",
+        "name": "LIFX Color 1000 (BR30)",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 21,
+        "name": "LIFX LCMv4 Color (GU10)",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -147,31 +279,119 @@
         "pid": 22,
         "name": "LIFX Color 1000",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 23,
+        "name": "LIFX (A19)",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 24,
+        "name": "LIFX (BR30)",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 25,
+        "name": "LIFX+ (A19)",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": true,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 26,
+        "name": "LIFX+ (BR30)",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": true,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 27,
-        "name": "LIFX A19",
+        "name": "LIFX (A19)",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -188,17 +408,21 @@
       },
       {
         "pid": 28,
-        "name": "LIFX BR30",
+        "name": "LIFX (BR30)",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -215,17 +439,21 @@
       },
       {
         "pid": 29,
-        "name": "LIFX A19 Night Vision",
+        "name": "LIFX+ (A19)",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": true,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -242,17 +470,21 @@
       },
       {
         "pid": 30,
-        "name": "LIFX BR30 Night Vision",
+        "name": "LIFX+ (BR30)",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": true,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -271,15 +503,19 @@
         "pid": 31,
         "name": "LIFX Z",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -287,20 +523,19 @@
         "pid": 32,
         "name": "LIFX Z",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
             2500,
             9000
           ],
-          "min_ext_mz_firmware": 1532997580,
-          "min_ext_mz_firmware_components": [
-            2,
-            77
-          ]
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -323,18 +558,42 @@
         ]
       },
       {
-        "pid": 36,
+        "pid": 33,
         "name": "LIFX Downlight",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 36,
+        "name": "LIFX DL",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -351,17 +610,21 @@
       },
       {
         "pid": 37,
-        "name": "LIFX Downlight",
+        "name": "LIFX DL",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -380,20 +643,19 @@
         "pid": 38,
         "name": "LIFX Beam",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
             2500,
             9000
           ],
-          "min_ext_mz_firmware": 1532997580,
-          "min_ext_mz_firmware_components": [
-            2,
-            77
-          ]
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -417,17 +679,21 @@
       },
       {
         "pid": 39,
-        "name": "LIFX Downlight White to Warm",
+        "name": "LIFX DL WW 700lm",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -444,17 +710,21 @@
       },
       {
         "pid": 40,
-        "name": "LIFX Downlight",
+        "name": "LIFX DL Colour 700lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -471,17 +741,21 @@
       },
       {
         "pid": 43,
-        "name": "LIFX A19",
+        "name": "LIFX (A19)",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -498,17 +772,21 @@
       },
       {
         "pid": 44,
-        "name": "LIFX BR30",
+        "name": "LIFX (BR30)",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -525,17 +803,21 @@
       },
       {
         "pid": 45,
-        "name": "LIFX A19 Night Vision",
+        "name": "LIFX+ (A19)",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": true,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -552,17 +834,21 @@
       },
       {
         "pid": 46,
-        "name": "LIFX BR30 Night Vision",
+        "name": "LIFX+ (BR30)",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": true,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -579,33 +865,41 @@
       },
       {
         "pid": 49,
-        "name": "LIFX Mini Color",
+        "name": "LIFX Mini C",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 50,
-        "name": "LIFX Mini White to Warm",
+        "name": "LIFX Mini DD",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
-            6500
-          ]
+            2500,
+            9000
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -622,17 +916,21 @@
       },
       {
         "pid": 51,
-        "name": "LIFX Mini White",
+        "name": "LIFX Mini W",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             2700
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -640,15 +938,19 @@
         "pid": 52,
         "name": "LIFX GU10",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -656,15 +958,39 @@
         "pid": 53,
         "name": "LIFX GU10",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 54,
+        "name": "LIFX GU10 White",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2700,
+            2700
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -672,63 +998,99 @@
         "pid": 55,
         "name": "LIFX Tile",
         "features": {
+          "hev": false,
           "color": true,
           "chain": true,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 56,
+        "name": "LIFX Beam",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            2500,
+            9000
+          ],
+          "extended_multizone": true
         },
         "upgrades": []
       },
       {
         "pid": 57,
-        "name": "LIFX Candle",
+        "name": "LIFX Candle C",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 59,
-        "name": "LIFX Mini Color",
+        "name": "LIFX Mini C",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 60,
-        "name": "LIFX Mini White to Warm",
+        "name": "LIFX Mini DD",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
-            6500
-          ]
+            2500,
+            9000
+          ],
+          "extended_multizone": false
         },
         "upgrades": [
           {
@@ -745,113 +1107,181 @@
       },
       {
         "pid": 61,
-        "name": "LIFX Mini White",
+        "name": "LIFX Mini W",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             2700
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 62,
-        "name": "LIFX A19",
+        "name": "LIFX (A19) LCM3",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 63,
-        "name": "LIFX BR30",
+        "name": "LIFX (BR30) LCM3",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 64,
-        "name": "LIFX A19 Night Vision",
+        "name": "LIFX+ (A19) LCM3",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": true,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 65,
-        "name": "LIFX BR30 Night Vision",
+        "name": "LIFX+ (BR30) LCM3",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": true,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 66,
-        "name": "LIFX Mini White",
+        "name": "LIFX Mini W",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             2700
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 67,
+        "name": "LIFX Candle WW",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2200,
+            6500
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 68,
-        "name": "LIFX Candle",
+        "name": "LIFX Candle C",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 69,
+        "name": "LIFX Filament",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2200,
+            2200
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -859,13 +1289,15 @@
         "pid": 70,
         "name": "LIFX Switch",
         "features": {
+          "hev": false,
           "color": false,
-          "relays": true,
           "chain": false,
           "matrix": false,
+          "relays": true,
           "buttons": true,
           "infrared": false,
-          "multizone": false
+          "multizone": false,
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -873,29 +1305,55 @@
         "pid": 71,
         "name": "LIFX Switch",
         "features": {
+          "hev": false,
           "color": false,
-          "relays": true,
           "chain": false,
           "matrix": false,
+          "relays": true,
           "buttons": true,
           "infrared": false,
-          "multizone": false
+          "multizone": false,
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 72,
+        "name": "LIFX A19",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": true
         },
         "upgrades": []
       },
       {
         "pid": 81,
-        "name": "LIFX Candle White to Warm",
+        "name": "LIFX Candle WW",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2200,
             6500
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -903,15 +1361,35 @@
         "pid": 82,
         "name": "LIFX Filament Clear",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2100,
-            2100
-          ]
+            2200,
+            2200
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 84,
+        "name": "LIFX Switch",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": true,
+          "buttons": true,
+          "infrared": false,
+          "multizone": false,
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -919,47 +1397,79 @@
         "pid": 85,
         "name": "LIFX Filament Amber",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2000,
             2000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 86,
+        "name": "LIFX Filament Smokey",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2200,
+            2200
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 87,
-        "name": "LIFX Mini White",
+        "name": "LIFX White",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             2700
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 88,
-        "name": "LIFX Mini White",
+        "name": "LIFX White",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             2700
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -967,159 +1477,215 @@
         "pid": 89,
         "name": "LIFX Switch",
         "features": {
+          "hev": false,
           "color": false,
-          "relays": true,
           "chain": false,
           "matrix": false,
+          "relays": true,
           "buttons": true,
           "infrared": false,
-          "multizone": false
+          "multizone": false,
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 90,
-        "name": "LIFX Clean",
+        "name": "LIFX Clean A19 1100lm",
         "features": {
           "hev": true,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 91,
-        "name": "LIFX Color",
+        "name": "LIFX Color 800lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 92,
-        "name": "LIFX Color",
+        "name": "LIFX Colour 1000lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 93,
-        "name": "LIFX A19 US",
+        "name": "LIFX Color A19 1100lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 94,
-        "name": "LIFX BR30",
+        "name": "LIFX Color BR30 1100lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
-        "pid": 96,
-        "name": "LIFX Candle White to Warm",
+        "pid": 95,
+        "name": "Copper",
         "features": {
-          "color": false,
+          "hev": false,
+          "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2200,
             6500
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 96,
+        "name": "LIFX Candle WW",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2200,
+            6500
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 97,
-        "name": "LIFX A19",
+        "name": "LIFX Colour A19 1200lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 98,
-        "name": "LIFX BR30",
+        "name": "LIFX Colour BR30 1100lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 99,
-        "name": "LIFX Clean",
+        "name": "LIFX Clean A19 1200lm",
         "features": {
           "hev": true,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -1127,15 +1693,19 @@
         "pid": 100,
         "name": "LIFX Filament Clear",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2100,
-            2100
-          ]
+            2200,
+            2200
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -1143,111 +1713,279 @@
         "pid": 101,
         "name": "LIFX Filament Amber",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2000,
             2000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 102,
+        "name": "LIFX Filament Smokey",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2200,
+            2200
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 103,
+        "name": "LIFX Filament",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2100,
+            2100
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 104,
+        "name": "LIFX Filament",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2000,
+            2000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 105,
+        "name": "LIFX Filament",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2200,
+            2200
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 106,
+        "name": "LIFX Filament",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2200,
+            2200
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 107,
+        "name": "LIFX Filament",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2000,
+            2000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 108,
+        "name": "LIFX Filament",
+        "features": {
+          "hev": false,
+          "color": false,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2200,
+            2200
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 109,
-        "name": "LIFX A19 Night Vision",
+        "name": "LIFX NV A19 1100lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": true,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 110,
-        "name": "LIFX BR30 Night Vision",
+        "name": "LIFX NV BR30 1100lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": true,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 111,
-        "name": "LIFX A19 Night Vision",
+        "name": "LIFX NV A19 1200lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": true,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 112,
-        "name": "LIFX BR30 Night Vision Intl",
+        "name": "LIFX NV BR30 1100lm",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": true,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 113,
-        "name": "LIFX Mini WW US",
+        "name": "LIFX WW 800lm",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 114,
-        "name": "LIFX Mini WW Intl",
+        "name": "LIFX WW 1000lm",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -1255,37 +1993,44 @@
         "pid": 115,
         "name": "LIFX Switch",
         "features": {
+          "hev": false,
           "color": false,
-          "relays": true,
           "chain": false,
           "matrix": false,
+          "relays": true,
           "buttons": true,
           "infrared": false,
-          "multizone": false
+          "multizone": false,
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 116,
-        "name": "LIFX Switch",
+        "name": "LIFX Switch US",
         "features": {
+          "hev": false,
           "color": false,
-          "relays": true,
           "chain": false,
           "matrix": false,
+          "relays": true,
           "buttons": true,
           "infrared": false,
-          "multizone": false
+          "multizone": false,
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 117,
-        "name": "LIFX Z US",
+        "name": "LIFX Z",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -1298,11 +2043,14 @@
       },
       {
         "pid": 118,
-        "name": "LIFX Z Intl",
+        "name": "LIFX Z",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -1315,11 +2063,14 @@
       },
       {
         "pid": 119,
-        "name": "LIFX Beam US",
+        "name": "LIFX Beam",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -1332,11 +2083,14 @@
       },
       {
         "pid": 120,
-        "name": "LIFX Beam Intl",
+        "name": "LIFX Beam",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -1349,225 +2103,281 @@
       },
       {
         "pid": 121,
-        "name": "LIFX Downlight Intl",
+        "name": "LIFX DL",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 122,
-        "name": "LIFX Downlight US",
+        "name": "LIFX DL",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 123,
-        "name": "LIFX Color US",
+        "name": "LIFX Mini 3.1 Color US",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 124,
-        "name": "LIFX Colour Intl",
+        "name": "LIFX Mini 3.1 Color Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 125,
-        "name": "LIFX White to Warm US",
+        "name": "LIFX Mini 3.1 WW US",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 126,
-        "name": "LIFX White to Warm Intl",
+        "name": "LIFX Mini 3.1 WW Intl",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 127,
-        "name": "LIFX White US",
+        "name": "LIFX Mini 3.1 W US",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             2700
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 128,
-        "name": "LIFX White Intl",
+        "name": "LIFX Mini 3.1 W Intl",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             2700
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 129,
-        "name": "LIFX Color US",
+        "name": "LIFX Color 800",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 130,
-        "name": "LIFX Colour Intl",
+        "name": "LIFX Colour 1000",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 131,
-        "name": "LIFX White To Warm US",
+        "name": "LIFX White to Warm 800",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 132,
-        "name": "LIFX White To Warm Intl",
+        "name": "LIFX White to Warm 1000",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 133,
-        "name": "LIFX White US",
+        "name": "LIFX White 650",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             2700
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 134,
-        "name": "LIFX White Intl",
+        "name": "LIFX White 800",
         "features": {
+          "hev": false,
           "color": false,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             2700,
             2700
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -1575,73 +2385,132 @@
         "pid": 135,
         "name": "LIFX GU10 Color US",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 136,
-        "name": "LIFX GU10 Colour Intl",
+        "name": "LIFX GU10 Color Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 137,
-        "name": "LIFX Candle Color US",
+        "name": "LIFX Candle C",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 138,
-        "name": "LIFX Candle Colour Intl",
+        "name": "LIFX Candle C",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 139,
+        "name": "LIFX A19 US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": true
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 140,
+        "name": "LIFX A19 Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": true
         },
         "upgrades": []
       },
       {
         "pid": 141,
-        "name": "LIFX Neon US",
+        "name": "LIFX Neon",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -1654,11 +2523,14 @@
       },
       {
         "pid": 142,
-        "name": "LIFX Neon Intl",
+        "name": "LIFX Neon",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -1671,11 +2543,14 @@
       },
       {
         "pid": 143,
-        "name": "LIFX String US",
+        "name": "LIFX String",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -1688,11 +2563,14 @@
       },
       {
         "pid": 144,
-        "name": "LIFX String Intl",
+        "name": "LIFX String",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -1704,12 +2582,255 @@
         "upgrades": []
       },
       {
-        "pid": 161,
-        "name": "LIFX Outdoor Neon US",
+        "pid": 145,
+        "name": "LIFX Ceiling US",
         "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 146,
+        "name": "LIFX Ceiling Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 147,
+        "name": "LIFX Round Spot US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 148,
+        "name": "LIFX Square Spot US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 149,
+        "name": "LIFX Round Path US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 150,
+        "name": "LIFX Square Path US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 151,
+        "name": "LIFX Neon Outdoor",
+        "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": true
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 152,
+        "name": "LIFX Neon Outdoor",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": true
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 153,
+        "name": "LIFX PAR38 US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 154,
+        "name": "LIFX PAR38 Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 155,
+        "name": "LIFX Sunshine",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 156,
+        "name": "LIFX A21 1000lm Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 161,
+        "name": "LIFX Neon Outdoor",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -1722,11 +2843,14 @@
       },
       {
         "pid": 162,
-        "name": "LIFX Outdoor Neon Intl",
+        "name": "LIFX Neon Outdoor",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -1739,33 +2863,41 @@
       },
       {
         "pid": 163,
-        "name": "LIFX A19 US",
+        "name": "LIFX A19",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 164,
-        "name": "LIFX BR30 US",
+        "name": "LIFX BR30",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -1773,15 +2905,19 @@
         "pid": 165,
         "name": "LIFX A19 Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -1789,175 +2925,239 @@
         "pid": 166,
         "name": "LIFX BR30 Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 167,
-        "name": "LIFX Downlight",
+        "name": "LIFX DL AU",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 168,
-        "name": "LIFX Downlight",
+        "name": "LIFX DL US",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 169,
-        "name": "LIFX A21 1600lm US",
+        "name": "LIFX A21",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 170,
-        "name": "LIFX A21 1600lm Intl",
+        "name": "LIFX A21",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 171,
-        "name": "LIFX Round Spot US",
+        "name": "LIFX Spot",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 172,
+        "name": "LIFX Spot",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 173,
-        "name": "LIFX Round Path US",
+        "name": "LIFX Path",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 174,
-        "name": "LIFX Square Path US",
+        "name": "LIFX Path",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 175,
-        "name": "LIFX PAR38 US",
+        "name": "LIFX PAR38",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 176,
-        "name": "LIFX Ceiling US",
+        "name": "LIFX Ceiling",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 177,
-        "name": "LIFX Ceiling Intl",
+        "name": "LIFX Ceiling",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -1965,15 +3165,19 @@
         "pid": 178,
         "name": "LIFX Downlight US",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -1981,15 +3185,19 @@
         "pid": 179,
         "name": "LIFX Downlight US",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -1997,153 +3205,232 @@
         "pid": 180,
         "name": "LIFX Downlight US",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 181,
-        "name": "LIFX Color US",
+        "name": "LIFX Mini",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 182,
-        "name": "LIFX Colour Intl",
+        "name": "LIFX Mini",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 185,
-        "name": "LIFX Candle Color US",
+        "name": "LIFX Candle C",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 186,
-        "name": "LIFX Candle Colour Intl",
+        "name": "LIFX Candle C Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 187,
-        "name": "LIFX Candle Color US",
+        "name": "LIFX Candle",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 188,
-        "name": "LIFX Candle Colour Intl",
+        "name": "LIFX Candle Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 191,
+        "name": "LIFX Everyday A19",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2700,
+            6500
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 192,
+        "name": "LIFX Everyday A19 Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            2700,
+            6500
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 201,
-        "name": "LIFX Ceiling 13x26\" US",
+        "name": "LIFX Ceiling 13x26",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 202,
-        "name": "LIFX Ceiling 13x26\" Intl",
+        "name": "LIFX Ceiling 13x26 Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 203,
-        "name": "LIFX String US",
+        "name": "LIFX String",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -2156,11 +3443,14 @@
       },
       {
         "pid": 204,
-        "name": "LIFX String Intl",
+        "name": "LIFX String",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -2173,11 +3463,14 @@
       },
       {
         "pid": 205,
-        "name": "LIFX Indoor Neon US",
+        "name": "LIFX Neon",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -2190,11 +3483,14 @@
       },
       {
         "pid": 206,
-        "name": "LIFX Indoor Neon Intl",
+        "name": "LIFX Neon",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -2206,12 +3502,75 @@
         "upgrades": []
       },
       {
-        "pid": 213,
-        "name": "LIFX Permanent Outdoor US",
+        "pid": 207,
+        "name": "LIFX Everyday Lightstrip",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": true,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            2700,
+            6500
+          ],
+          "extended_multizone": true
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 208,
+        "name": "LIFX Everyday Lightstrip Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": true,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            2700,
+            6500
+          ],
+          "extended_multizone": true
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 211,
+        "name": "LIFX Everyday Permanent Outdoor US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            2700,
+            6500
+          ],
+          "extended_multizone": true
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 213,
+        "name": "LIFX Permanent Outdoor",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -2226,9 +3585,12 @@
         "pid": 214,
         "name": "LIFX Permanent Outdoor Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": true,
           "temperature_range": [
@@ -2241,49 +3603,61 @@
       },
       {
         "pid": 215,
-        "name": "LIFX Candle Color US",
+        "name": "LIFX Candle C",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 216,
-        "name": "LIFX Candle Colour Intl",
+        "name": "LIFX Candle C Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 217,
-        "name": "LIFX Tube US",
+        "name": "LIFX Tube",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -2291,32 +3665,39 @@
         "pid": 218,
         "name": "LIFX Tube Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 219,
-        "name": "LIFX Luna US",
+        "name": "LIFX Luna",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
           "buttons": true,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -2324,96 +3705,159 @@
         "pid": 220,
         "name": "LIFX Luna Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
           "buttons": true,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 221,
-        "name": "LIFX Round Spot Intl",
+        "name": "LIFX Spot Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 222,
-        "name": "LIFX Round Path Intl",
+        "name": "LIFX Path Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": true,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 223,
-        "name": "LIFX Downlight US",
+        "name": "LIFX DL",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 224,
-        "name": "LIFX Downlight Intl",
+        "name": "LIFX DL Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       },
       {
         "pid": 225,
-        "name": "LIFX PAR38 INTL",
+        "name": "LIFX PAR38 Intl",
         "features": {
+          "hev": false,
           "color": true,
           "chain": false,
           "matrix": false,
+          "relays": false,
+          "buttons": false,
           "infrared": false,
           "multizone": false,
           "temperature_range": [
             1500,
             9000
-          ]
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 229,
+        "name": "LIFX Path Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 300,
+        "name": "LIFX Everyday Permanent Outdoor US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            2700,
+            6500
+          ],
+          "extended_multizone": false
         },
         "upgrades": []
       }
