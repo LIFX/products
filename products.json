@@ -1879,7 +1879,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 118,
@@ -1899,7 +1910,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 119,
@@ -1919,7 +1941,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 120,
@@ -1939,7 +1972,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 121,
@@ -2319,7 +2363,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 142,
@@ -2339,7 +2394,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 143,
@@ -2359,7 +2425,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 144,
@@ -2379,7 +2456,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 151,
@@ -2519,7 +2607,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 162,
@@ -2539,7 +2638,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 163,
@@ -2559,7 +2669,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 164,
@@ -2579,7 +2700,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 165,
@@ -2599,7 +2731,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 166,
@@ -2619,7 +2762,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 167,
@@ -2639,7 +2793,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 168,
@@ -2659,7 +2824,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 169,
@@ -2679,7 +2855,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 170,
@@ -2699,7 +2886,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 171,
@@ -2719,7 +2917,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 172,
@@ -2759,7 +2968,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 174,
@@ -2779,7 +2999,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 175,
@@ -2799,7 +3030,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 176,
@@ -2819,7 +3061,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 177,
@@ -2839,7 +3092,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 178,
@@ -2859,7 +3123,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 179,
@@ -2879,7 +3154,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 180,
@@ -2899,7 +3185,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 181,
@@ -2919,7 +3216,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 182,
@@ -2939,7 +3247,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 185,
@@ -2959,7 +3278,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 186,
@@ -2979,7 +3309,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 187,
@@ -2999,7 +3340,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 188,
@@ -3019,7 +3371,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 191,
@@ -3079,7 +3442,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 202,
@@ -3099,7 +3473,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 203,
@@ -3119,7 +3504,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 204,
@@ -3139,7 +3535,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 205,
@@ -3159,7 +3566,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 206,
@@ -3179,7 +3597,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 207,
@@ -3259,7 +3688,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 214,
@@ -3279,7 +3719,18 @@
           ],
           "extended_multizone": true
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 215,
@@ -3299,7 +3750,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 216,
@@ -3319,7 +3781,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 217,
@@ -3339,7 +3812,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 218,
@@ -3359,7 +3843,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 219,
@@ -3379,7 +3874,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 220,
@@ -3399,7 +3905,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 221,
@@ -3419,7 +3936,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 222,
@@ -3439,7 +3967,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 223,
@@ -3459,7 +3998,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 224,
@@ -3479,7 +4029,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 225,
@@ -3499,7 +4060,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 226,
@@ -3530,8 +4102,8 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
-            9000
+            1000,
+            10000
           ],
           "extended_multizone": false
         },
@@ -3555,7 +4127,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 266,
@@ -3575,7 +4158,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 267,
@@ -3595,7 +4189,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 268,
@@ -3615,7 +4220,18 @@
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 200,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 300,
