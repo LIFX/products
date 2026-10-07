@@ -12,6 +12,7 @@
       "infrared": false,
       "multizone": false,
       "temperature_range": null,
+      "uplight_coords": null,
       "extended_multizone": false
     },
     "products": [
@@ -3059,6 +3060,10 @@
             1500,
             9000
           ],
+          "uplight_coords": {
+            "x": 7,
+            "y": 7
+          },
           "extended_multizone": false
         },
         "upgrades": [
@@ -3090,6 +3095,10 @@
             1500,
             9000
           ],
+          "uplight_coords": {
+            "x": 7,
+            "y": 7
+          },
           "extended_multizone": false
         },
         "upgrades": [
@@ -3440,6 +3449,10 @@
             1500,
             9000
           ],
+          "uplight_coords": {
+            "x": 15,
+            "y": 7
+          },
           "extended_multizone": false
         },
         "upgrades": [
@@ -3471,6 +3484,10 @@
             1500,
             9000
           ],
+          "uplight_coords": {
+            "x": 15,
+            "y": 7
+          },
           "extended_multizone": false
         },
         "upgrades": [
@@ -4125,6 +4142,10 @@
             1500,
             9000
           ],
+          "uplight_coords": {
+            "x": 7,
+            "y": 7
+          },
           "extended_multizone": false
         },
         "upgrades": [
@@ -4156,6 +4177,10 @@
             1500,
             9000
           ],
+          "uplight_coords": {
+            "x": 7,
+            "y": 7
+          },
           "extended_multizone": false
         },
         "upgrades": [

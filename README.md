@@ -22,6 +22,9 @@ LAN Protocol. LiFi Labs, Inc. © 2021. All rights reserved. Usage of this docume
   device supports. If the numbers are the same then the device does not support
   variable kelvin values. It is `null` for devices that aren't lighting
   products (the LIFX Switch)
+* `uplight_coords` = An object with the `x` and `y` coordinates of the zone in
+  the matrix that controls the uplight (e.g. the LIFX Ceiling). It is `null` for
+  devices that don't have an uplight
 * `extended_multizone` = The more capable `extended` API for multizone control
   that lets us control all the zones on the device with a single message instead
   of many.
