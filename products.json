@@ -877,12 +877,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 50,
@@ -897,12 +908,22 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
-            9000
+            1500,
+            4000
           ],
           "extended_multizone": false
         },
         "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                6500
+              ]
+            }
+          },
           {
             "major": 3,
             "minor": 70,
@@ -948,12 +969,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 53,
@@ -968,12 +1000,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 54,
@@ -1048,12 +1091,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 50,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 59,
@@ -1068,12 +1122,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 60,
@@ -1088,12 +1153,22 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            2500,
-            9000
+            1500,
+            4000
           ],
           "extended_multizone": false
         },
         "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                6500
+              ]
+            }
+          },
           {
             "major": 3,
             "minor": 70,
@@ -1139,12 +1214,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 50,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 63,
@@ -1159,12 +1245,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 50,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 64,
@@ -1179,12 +1276,23 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 50,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 65,
@@ -1199,12 +1307,23 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 50,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 66,
@@ -1259,12 +1378,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 50,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 70,
@@ -1483,12 +1613,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 91,
@@ -1503,12 +1644,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 92,
@@ -1523,12 +1675,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 93,
@@ -1543,12 +1706,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 94,
@@ -1563,12 +1737,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 96,
@@ -1603,12 +1788,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 98,
@@ -1623,12 +1819,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 99,
@@ -1643,12 +1850,23 @@
           "infrared": false,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 100,
@@ -1723,12 +1941,23 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 110,
@@ -1743,12 +1972,23 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 111,
@@ -1763,12 +2003,23 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 112,
@@ -1783,12 +2034,23 @@
           "infrared": true,
           "multizone": false,
           "temperature_range": [
-            1500,
+            2500,
             9000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 113,
@@ -1804,11 +2066,32 @@
           "multizone": false,
           "temperature_range": [
             1500,
-            9000
+            4000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                6500
+              ]
+            }
+          },
+          {
+            "major": 3,
+            "minor": 70,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 114,
@@ -1824,11 +2107,32 @@
           "multizone": false,
           "temperature_range": [
             1500,
-            9000
+            4000
           ],
           "extended_multizone": false
         },
-        "upgrades": []
+        "upgrades": [
+          {
+            "major": 3,
+            "minor": 42,
+            "features": {
+              "temperature_range": [
+                1500,
+                6500
+              ]
+            }
+          },
+          {
+            "major": 3,
+            "minor": 70,
+            "features": {
+              "temperature_range": [
+                1500,
+                9000
+              ]
+            }
+          }
+        ]
       },
       {
         "pid": 115,
