@@ -3944,7 +3944,7 @@
           "infrared": false,
           "multizone": true,
           "temperature_range": [
-            2700,
+            2500,
             6500
           ],
           "extended_multizone": true
@@ -3964,7 +3964,7 @@
           "infrared": false,
           "multizone": true,
           "temperature_range": [
-            2700,
+            2500,
             6500
           ],
           "extended_multizone": true
