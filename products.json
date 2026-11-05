@@ -3513,7 +3513,7 @@
       },
       {
         "pid": 181,
-        "name": "LIFX Mini",
+        "name": "LIFX Color A19",
         "features": {
           "hev": false,
           "color": true,
@@ -3544,7 +3544,7 @@
       },
       {
         "pid": 182,
-        "name": "LIFX Mini",
+        "name": "LIFX Color A19 Intl",
         "features": {
           "hev": false,
           "color": true,
