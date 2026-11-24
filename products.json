@@ -3513,7 +3513,7 @@
       },
       {
         "pid": 181,
-        "name": "LIFX Mini",
+        "name": "LIFX Color A19",
         "features": {
           "hev": false,
           "color": true,
@@ -3544,7 +3544,7 @@
       },
       {
         "pid": 182,
-        "name": "LIFX Mini",
+        "name": "LIFX Color A19 Intl",
         "features": {
           "hev": false,
           "color": true,
@@ -4431,6 +4431,192 @@
         "upgrades": []
       },
       {
+        "pid": 259,
+        "name": "LIFX Round Path SuperColor US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 260,
+        "name": "LIFX Round Path SuperColor Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 261,
+        "name": "LIFX Spot SuperColor US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 262,
+        "name": "LIFX Spot SuperColor Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 263,
+        "name": "LIFX Floor Lamp Spot US",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 264,
+        "name": "LIFX Floor Lamp Spot Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
         "pid": 265,
         "name": "LIFX Ceiling 13\"",
         "features": {
@@ -4563,6 +4749,409 @@
         ]
       },
       {
+        "pid": 269,
+        "name": "LIFX Color",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 270,
+        "name": "LIFX Color Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 271,
+        "name": "LIFX Color",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 272,
+        "name": "LIFX Color Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 273,
+        "name": "LIFX Color",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 274,
+        "name": "LIFX Color Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 275,
+        "name": "LIFX Luna",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 276,
+        "name": "LIFX Luna Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": true,
+          "relays": false,
+          "buttons": true,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 279,
+        "name": "LIFX Permanent Outdoor Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": true,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 280,
+        "name": "LIFX SuperColor A21",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 281,
+        "name": "LIFX SuperColor A21 Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 282,
+        "name": "LIFX SuperColor PAR38",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "pid": 283,
+        "name": "LIFX SuperColor PAR38 Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1500,
+            9000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": [
+          {
+            "major": 4,
+            "minor": 148,
+            "features": {
+              "temperature_range": [
+                1000,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
         "pid": 300,
         "name": "LIFX Everyday Permanent Outdoor US",
         "features": {
@@ -4577,6 +5166,46 @@
           "temperature_range": [
             2700,
             6500
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 317,
+        "name": "LIFX Color",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1000,
+            10000
+          ],
+          "extended_multizone": false
+        },
+        "upgrades": []
+      },
+      {
+        "pid": 318,
+        "name": "LIFX Color Intl",
+        "features": {
+          "hev": false,
+          "color": true,
+          "chain": false,
+          "matrix": false,
+          "relays": false,
+          "buttons": false,
+          "infrared": false,
+          "multizone": false,
+          "temperature_range": [
+            1000,
+            10000
           ],
           "extended_multizone": false
         },
