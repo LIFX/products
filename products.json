@@ -1444,7 +1444,7 @@
             1500,
             9000
           ],
-          "extended_multizone": true
+          "extended_multizone": false
         },
         "upgrades": []
       },
@@ -5012,7 +5012,7 @@
             1500,
             9000
           ],
-          "extended_multizone": false
+          "extended_multizone": true
         },
         "upgrades": [
           {
@@ -5167,7 +5167,7 @@
             2700,
             6500
           ],
-          "extended_multizone": false
+          "extended_multizone": true
         },
         "upgrades": []
       },
